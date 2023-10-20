@@ -1,0 +1,15 @@
+{
+  "name": "suraj-portfolio",
+  "version": "1.0.0",
+  "description": "Suraj Portfolio Website",
+  "main": "app.js",
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/Suraj-kumar00/Suraj-Portfolio"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Suraj Kumar",
+  "license": "ISC"
+}
